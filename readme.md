@@ -36,9 +36,7 @@ I’m a B.Tech CSE student (2023–2027) at **ITER, SOA University** with a prim
 
 #### 🗓️ GitHub 3D Contribution Calendar
 <p align="center">
-  <!-- To show your 3D calendar, you need to set up the github-profile-3d-contrib action in your profile repository. -->
-  <!-- Once set up, the image will be available at your repository path. -->
-  <img src="https://raw.githubusercontent.com/dexisworking/dexisworking/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="GitHub 3D Contribution Graph" />
 </p>
 
 ---
