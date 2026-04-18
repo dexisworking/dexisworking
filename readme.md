@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://iamdex.codes"><img src="assets/iamdex_favicon.png" height="40" alt="Portfolio" /></a>
+  <a href="https://iamdex.codes"><img src="https://img.shields.io/badge/Portfolio-iamdex.codes-111111?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/dibyanshusekhar/"><img src="https://img.shields.io/badge/LinkedIn-Dibyanshu%20Sekhar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/SekharDibyanshu"><img src="https://img.shields.io/badge/Twitter-@SekharDibyanshu-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
   <a href="https://instagram.com/dexisreal"><img src="https://img.shields.io/badge/Instagram-@dexisreal-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
