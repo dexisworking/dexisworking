@@ -45,6 +45,7 @@ I’m a B.Tech CSE student (2023–2027) at **ITER, SOA University** with a prim
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
+| **DexSec** | High-performance, client-side security scanner uncovering browser "digital exhaust". | [GitHub](https://github.com/dexisworking/DexSec) • [Live Demo](https://dexsec.iamdex.codes/) |
 | **TravelDex** | AI-assisted travel planner powered by Gemini API + Google Maps API. | [GitHub](https://github.com/dexisworking/TravelDex) • [Live Demo](https://traveldex-phi.vercel.app) |
 | **Couplesna** | Long-distance relationship app with real-time features and AI date ideas. | [GitHub](https://github.com/dexisworking/Couplesna) • [Live Demo](https://couplesna.vercel.app) |
 | **QuicKards** | High-performance digital business cards and link management. | [GitHub](https://github.com/dexisworking/QuicKards) • [Live Demo](https://quickards.vercel.app) |
