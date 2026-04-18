@@ -25,6 +25,11 @@ I’m a B.Tech CSE student (2023–2027) at **ITER, SOA University** with a prim
 ---
 
 ### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dexisworking&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dexisworking&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dexisworking&theme=tokyonight" alt="GitHub Streak" />
@@ -32,6 +37,10 @@ I’m a B.Tech CSE student (2023–2027) at **ITER, SOA University** with a prim
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexisworking&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dexisworking&theme=tokyonight" width="100%" alt="Activity Graph" />
 </div>
 
 #### 🗓️ GitHub 3D Contribution Calendar
